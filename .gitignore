@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Runtime files
+received_files/
+server.log
+
+# Security
+secret.key
+
+# Demo files
+demo
+demo1
